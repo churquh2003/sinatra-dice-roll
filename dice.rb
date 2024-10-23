@@ -10,3 +10,5 @@ get("/") do
   "Hello, world"
 end
 
+require "sinatra/reloader"
+
