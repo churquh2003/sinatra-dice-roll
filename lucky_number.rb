@@ -9,3 +9,4 @@ get '/' do
 
   return "Your lucky number today is " + lucky_num.to_s
 end
+
